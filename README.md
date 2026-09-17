@@ -1,4 +1,4 @@
-#11501_CI001 — Course Repository
+# 11501_CI001 — Course Repository
 
 ## Course Information
 - **Course ID**: 11501_CI001
